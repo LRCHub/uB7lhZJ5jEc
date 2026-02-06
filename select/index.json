@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ノンフィクション",
+  "base_artist": "春猿火",
+  "createdAt": "2026-02-06T14:19:11.072538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ノンフィクション",
+      "artist": "DEKA",
+      "has_synced": false,
+      "path": "select/01_ノンフィクション_DEKA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ノンフィクション エクスタシー",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/02_ノンフィクション_エクスタシー_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ノンフィクション エクスタシー",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/03_ノンフィクション_エクスタシー_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ノンフィクション",
+      "artist": "MOSHIMO",
+      "has_synced": true,
+      "path": "select/04_ノンフィクション_MOSHIMO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ノンフィクション",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/05_ノンフィクション_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "平井 堅 『ノンフィクション』MUSIC VIDEO (Short Ver.)",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/06_平井_堅_『ノンフィクション』MUSIC_VIDEO_(Short_Ver.)_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ノンフィクション",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/07_ノンフィクション_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ノンフィクション",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/08_ノンフィクション_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ノンフィクション",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/09_ノンフィクション_Ken_Hirai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノンフィクション",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_ノンフィクション_春猿火.txt"
+    }
+  ]
+}
